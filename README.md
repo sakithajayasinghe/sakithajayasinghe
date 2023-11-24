@@ -1,16 +1,5 @@
 ### Hi there 👋
-## hi
-## sakiiiiiiiiiiiiiiiii
-###### ffffffffffffffffffffffffffffffffffffffffff
-#### sakitha jayasinghe
-|name|id|address|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
-|saki|2 |sflnsdf|
+
 
 <!--
 **sakithajayasinghe/sakithajayasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
